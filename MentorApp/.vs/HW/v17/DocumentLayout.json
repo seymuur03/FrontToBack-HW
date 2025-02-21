@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\data\\mentorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\data\\mentorappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|c:\\users\\hp\\onedrive\\desktop\\fronttoback\\mentorapp\\hw\\hw.mentorapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87D91C-8B4C-436C-9741-B057EC546368}|HW.MentorApp\\HW.MentorApp.csproj|solutionrelative:hw.mentorapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HW.MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T13:47:58.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "HW.MentorApp\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswEsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T13:45:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Course\\Detail.cshtml",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Views\\Course\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Course\\Detail.cshtml",
+              "RelativeToolTip": "HW.MentorApp\\Views\\Course\\Detail.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswDcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T13:36:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "HW.MentorApp\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:16:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "HW.MentorApp\\ViewModels\\HomeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:56:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HW.MentorApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAswOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:29:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HW.MentorApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:22:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MentorAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\DATA\\MentorAppContext.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\DATA\\MentorAppContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\DATA\\MentorAppContext.cs",
+              "RelativeToolTip": "HW.MentorApp\\DATA\\MentorAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:13:22.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Models\\Course.cs",
+              "RelativeToolTip": "HW.MentorApp\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:37:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HW.MentorApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\FrontToBack\\MentorApp\\HW\\HW.MentorApp\\Models\\Category.cs",
+              "RelativeToolTip": "HW.MentorApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:37:44.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
