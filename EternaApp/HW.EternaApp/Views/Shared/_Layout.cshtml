@@ -58,7 +58,7 @@
         <div class="branding">
 
             <div class="container position-relative d-flex align-items-center justify-content-between">
-                <a href="index.html" class="logo d-flex align-items-center">
+                <a asp-action="index" asp-controller="home" class="logo d-flex align-items-center">
                     <!-- Uncomment the line below if you also wish to use an image logo -->
                     <!-- <img src="~/assets/img/logo.png" alt=""> -->
                     <h1 class="sitename">Eterna<br></h1>
@@ -66,9 +66,9 @@
 
                 <nav id="navmenu" class="navmenu">
                     <ul>
-                        <li><a href="index.html" class="active">Home</a></li>
+                        <li><a asp-action="index" asp-controller="home" id="home">Home</a></li>
                         <li><a href="about.html">About</a></li>
-                        <li><a href="services.html">Services</a></li>
+                        <li><a asp-action="index" asp-controller="service" id="service">Services</a></li>
                         <li><a href="portfolio.html">Portfolio</a></li>
                         <li><a href="team.html">Team</a></li>
                         <li><a href="pricing.html">Pricing</a></li>
@@ -208,6 +208,8 @@
 
     <!-- Main JS File -->
     <script src="~/assets/js/main.js"></script>
+    <script src="~/assets/js/custom.js"></script>
+
 
 </body>
 

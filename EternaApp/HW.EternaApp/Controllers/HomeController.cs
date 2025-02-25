@@ -20,7 +20,7 @@ namespace HW.EternaApp.Controllers
             {
                 Sliders = _appContext.Sliders.OrderBy(s=>s.Order).ToList(),
                 Features = _appContext.Features.ToList(),
-                Services = _appContext.Services.ToList(),
+                Services = _appContext.Services.Take(6).ToList(),
                 Clients = _appContext.Clients.ToList(),
                 ClientsImages = _appContext.ClientsImages.ToList()
             };

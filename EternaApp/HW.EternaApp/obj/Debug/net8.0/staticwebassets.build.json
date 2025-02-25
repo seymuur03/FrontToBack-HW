@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fi6GQPuX3kRZvHq36rkrXXzemHlupjsL2TI0XMtF/Wk=",
+  "Hash": "Ly7LROarZb6cPmkzl3UXykOoicj9Vwz2dppgU4xdio8=",
   "Source": "HW.EternaApp",
   "BasePath": "_content/HW.EternaApp",
   "Mode": "Default",
@@ -1117,6 +1117,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\wwwroot\\assets\\js\\custom.js",
+      "SourceId": "HW.EternaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\wwwroot\\",
+      "BasePath": "_content/HW.EternaApp",
+      "RelativePath": "assets/js/custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
       "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\wwwroot\\assets\\js\\main.js",

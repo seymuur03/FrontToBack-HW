@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\data\\eternaappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\data\\eternaappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\models\\clientsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\models\\clientsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\backend\\22.02.2025(fronttoback)\\eternaapp\\hw.eternaapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12114F4-E6E8-48EE-871F-8233590531D6}|HW.EternaApp\\HW.EternaApp.csproj|solutionrelative:hw.eternaapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClientsImage.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\ClientsImage.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\Models\\ClientsImage.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\ClientsImage.cs",
-              "RelativeToolTip": "HW.EternaApp\\Models\\ClientsImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:41:46.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\Client.cs",
-              "RelativeToolTip": "HW.EternaApp\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:30:54.756Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HW.EternaApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HW.EternaApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAALUAAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW.EternaApp\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "HW.EternaApp\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T16:40:26.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeVm.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\ViewModels\\Home\\HomeVm.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\ViewModels\\Home\\HomeVm.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\ViewModels\\Home\\HomeVm.cs",
-              "RelativeToolTip": "HW.EternaApp\\ViewModels\\Home\\HomeVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:33:21.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\Service.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\Models\\Service.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Models\\Service.cs",
-              "RelativeToolTip": "HW.EternaApp\\Models\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:31:49.356Z",
+              "WhenOpened": "2025-02-25T10:34:18.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HW.EternaApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAswBsAAAAJAAAA",
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "HW.EternaApp\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "HW.EternaApp\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:56:42.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EternaAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\DATA\\EternaAppContext.cs",
-              "RelativeDocumentMoniker": "HW.EternaApp\\DATA\\EternaAppContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\Backend\\22.02.2025(FrontToBack)\\EternaApp\\HW.EternaApp\\DATA\\EternaAppContext.cs",
-              "RelativeToolTip": "HW.EternaApp\\DATA\\EternaAppContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:04:18.104Z",
+              "WhenOpened": "2025-02-25T10:22:57.375Z",
               "EditorCaption": ""
             }
           ]

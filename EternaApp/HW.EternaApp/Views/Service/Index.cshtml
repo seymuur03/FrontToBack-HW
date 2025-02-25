@@ -1,0 +1,89 @@
+﻿@model ServiceVm
+ <!-- Page Title -->
+<div class="page-title" data-aos="fade">
+    <div class="container">
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a href="index.html">Home</a></li>
+                <li class="current">Services</li>
+            </ol>
+        </nav>
+        <h1>Services</h1>
+    </div>
+</div><!-- End Page Title -->
+
+<!-- Services Section -->
+<section id="services" class="services section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+            @foreach (var service in Model.Services)
+            {
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="service-item  position-relative">
+                        <div class="icon">
+                            <i class="@service.Icon"></i>
+                        </div>
+                        <a href="#" class="stretched-link">
+                            <h3>@service.Name</h3>
+                        </a>
+                        <p>@service.Description</p>
+                    </div>
+                </div>
+
+                <!-- End Service Item -->
+            }
+
+        </div>
+
+    </div>
+
+</section><!-- /Services Section -->
+
+<!-- Skills Section -->
+<section id="skills" class="skills section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Our Skills</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+
+            <div class="col-lg-6 d-flex align-items-center">
+                <img src="~/assets/img/skills.jpg" class="img-fluid" alt="">
+            </div>
+
+            <div class="col-lg-6 pt-4 pt-lg-0 content">
+
+                <h3>Voluptatem dignissimos provident quasi corporis voluptas</h3>
+                <p class="fst-italic">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
+
+                <div class="skills-content skills-animation">
+
+                    @foreach (var skil in Model.Skills)
+                    {
+                        <div class="progress">
+                            <span class="skill">@Html.Raw(skil.Name) <i class="val">@skil.Percent%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="@skil.Percent" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <!-- End Skills Item -->
+                    }
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</section><!-- /Skills Section -->
