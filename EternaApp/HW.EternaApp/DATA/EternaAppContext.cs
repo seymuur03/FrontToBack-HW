@@ -14,6 +14,8 @@ namespace HW.EternaApp.DATA
         public DbSet<Category> Categories { get; set; }
         public DbSet<Project> Projects { get; set; }
         public DbSet<ProjectImage> ProjectImages { get; set; }
+        public DbSet<Blog> Blogs{ get; set; }
+        public DbSet<BlogCategory> BlogCategories { get; set; }
         public EternaAppContext(DbContextOptions options) : base(options)
         {
 
